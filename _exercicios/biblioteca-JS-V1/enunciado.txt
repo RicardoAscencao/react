@@ -1,0 +1,9 @@
+EXERCICIO - biblioteca
+
+1- 'partir' a aplicação em componentes.
+2- criar uma versão estática da aplicação
+3- aplicação "Data-Driven"", ligar ao modelo de dados
+4- definir qual a componente que irá gerir o "State"
+5- passar via "props" os dados do State
+6- criar as interações nas componentes, para alterar o "State" da aplicação
+7- Ligar ao endpoint da minha API externa (Não é fazer agora)
